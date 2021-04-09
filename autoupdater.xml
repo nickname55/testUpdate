@@ -6,6 +6,6 @@
         <property key="default.launcher.main.class" value="dev.tricht.lunaris.Lunaris"/>
     </properties>
     <files>
-        <file uri="https://www.dropbox.com/s/mzcxhkuw7c3t9qo/tableau-connector-jira-3.7.7.jar" path="app/lunaris.jar" size="178852094" checksum="60de03c2" classpath="true" ignoreBootConflict="true"/>
+        <file uri="https://www.dropbox.com/s/mzcxhkuw7c3t9qo/tableau-connector-jira-3.7.7.jar" path="E:/app/lunaris.jar" size="178852094" checksum="60de03c2" classpath="true" ignoreBootConflict="true"/>
     </files>
 </configuration>
